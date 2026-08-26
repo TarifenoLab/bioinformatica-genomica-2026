@@ -4,7 +4,7 @@
 
 En este práctico comenzaremos el análisis de un experimento de RNA-seq trabajando directamente con los archivos de secuenciación sin procesar.
 
-Los datos provienen del proyecto [[GSE149081](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149081)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149081), disponible en el repositorio Gene Expression Omnibus (GEO). El estudio investigó las similitudes transcriptómicas entre las células endocrinas pancreáticas y las células enteroendocrinas del pez cebra, así como las redes regulatorias controladas por el factor de transcripción **Pax6b**.
+Los datos provienen del proyecto [GSE149081](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149081), disponible en el repositorio Gene Expression Omnibus (GEO). El estudio investigó las similitudes transcriptómicas entre las células endocrinas pancreáticas y las células enteroendocrinas del pez cebra, así como las redes regulatorias controladas por el factor de transcripción **Pax6b**.
 
 Durante el curso utilizaremos seis muestras correspondientes a células endocrinas pancreáticas —pancreatic endocrine cells, PECs— aisladas mediante FACS desde embriones de pez cebra de 27 horas post-fertilización:
 
@@ -385,7 +385,7 @@ seqkit stats -a data/raw/*.fastq.gz \
 
 FastQ Screen permite comparar una muestra de reads contra un panel de genomas de referencia. Este análisis se utiliza para evaluar si la composición de una biblioteca es compatible con su origen esperado y para detectar posibles fuentes de contaminación.
 
-Consulta la [[documentación de FastQ Screen](https://stevenwingett.github.io/FastQ-Screen/)](https://stevenwingett.github.io/FastQ-Screen/) y la ayuda del programa:
+Consulta la [documentación de FastQ Screen](https://stevenwingett.github.io/FastQ-Screen/) y la ayuda del programa:
 
 ```bash
 fastq_screen --help
@@ -471,7 +471,7 @@ Consulta la ayuda:
 fastqc --help
 ```
 
-También puedes revisar la [[documentación de los módulos de FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/)](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/).
+También puedes revisar la [documentación de los módulos de FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/).
 
 ## 5.1. Ejecución
 
@@ -666,7 +666,7 @@ Abre los reportes `.html` utilizando un navegador web.
 
 # Presentación y discusión de resultados
 
-Los resultados serán discutidos en clase utilizando el siguiente [[PPT colaborativo](https://docs.google.com/presentation/d/1MHL3N8V4S7amSoAlNC3wo0_cMoCgJkYEf6PqwatC4h4/edit?usp=sharing)](https://docs.google.com/presentation/d/1MHL3N8V4S7amSoAlNC3wo0_cMoCgJkYEf6PqwatC4h4/edit?usp=sharing).
+Los resultados serán discutidos en clase utilizando el siguiente [PPT colaborativo](https://docs.google.com/presentation/d/1MHL3N8V4S7amSoAlNC3wo0_cMoCgJkYEf6PqwatC4h4/edit?usp=sharing).
 
 Cada resultado presentado debe incluir:
 
