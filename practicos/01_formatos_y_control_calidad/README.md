@@ -666,7 +666,7 @@ Abre los reportes `.html` utilizando un navegador web.
 
 # Presentación y discusión de resultados
 
-Los resultados serán discutidos en clase utilizando el siguiente [PPT colaborativo](https://docs.google.com/presentation/d/1MHL3N8V4S7amSoAlNC3wo0_cMoCgJkYEf6PqwatC4h4/edit?usp=sharing).
+Los resultados serán discutidos en clase utilizando el siguiente [PPT colaborativo](https://docs.google.com/presentation/d/1AvFVs3oCuBSrFPSyM1M7iQB0BGip6xKbZpvInMULIPM/edit?slide=id.g3f878d6a530_0_50#slide=id.g3f878d6a530_0_50).
 
 Cada resultado presentado debe incluir:
 
