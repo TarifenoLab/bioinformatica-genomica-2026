@@ -17,7 +17,7 @@ Durante el curso se abordarán las principales etapas del análisis bioinformát
 
 ### Análisis de RNA-seq
 
-1. Formatos de datos y control de calidad
+1. [Práctico 1: Formato FASTQ y control de calidad de datos RNA-seq](practicos/01_formatos_y_control_calidad/)
 2. Preprocesamiento de lecturas
 3. Alineamiento contra un genoma de referencia
 4. Cuantificación de la expresión génica
