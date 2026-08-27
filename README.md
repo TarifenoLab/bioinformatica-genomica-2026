@@ -67,6 +67,11 @@ Universidad de Concepción
 | 2 | File Formats | [Clase 2: Formatos de archivos](clases/clase_02_file_formats.pdf) |
 
 
+## Tareas
+
+Las instrucciones de las actividades evaluadas se encuentran disponibles en la sección de [Tareas](tareas/README.md).
+
+
 ## Uso de los materiales
 
 Los materiales de este repositorio están destinados principalmente a fines docentes. Los contenidos serán actualizados durante el desarrollo de la asignatura.
