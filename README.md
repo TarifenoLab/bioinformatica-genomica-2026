@@ -62,9 +62,9 @@ Universidad de Concepción
 
 | Clase | Tema | Material |
 |---|---|---|
-| 1 | Introducción al curso | [Descargar PDF](clases/clase_01_introduccion.pdf) |
-| 2 | Sequencing Thenologies, plataformas and repositorios | [Descargar PDF](clases/clase_02_control_calidad.pdf) |
-| 3 | File Formats | [Descargar PDF](clases/clase_03_rnaseq.pdf) |
+| 0 | Introducción al curso | [Descargar PDF](clases/clase_01_introduccion.pdf) |
+| 1 | Sequencing Thenologies, plataformas and repositorios | [Descargar PDF](clases/clase_02_control_calidad.pdf) |
+| 2 | File Formats | [Descargar PDF](clases/clase_03_rnaseq.pdf) |
 
 
 ## Uso de los materiales
