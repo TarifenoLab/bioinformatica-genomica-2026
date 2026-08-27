@@ -405,6 +405,9 @@ Ejecuta FastQ Screen sobre todos los archivos:
 
 ```bash
 fastq_screen \
+    --conf /usr/local/miniconda3/envs/RNAseq/share/fastq-screen-0.16.0-0/fastq_screen.conf \
+    --aligner bowtie2 \
+    --threads 2 \
     --outdir results/fastq_screen \
     data/raw/*.fastq.gz
 ```
