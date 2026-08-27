@@ -58,6 +58,15 @@ Los archivos de secuenciación de gran tamaño no se almacenarán directamente e
 Facultad de Ciencias Biológicas  
 Universidad de Concepción
 
+## Clases teóricas
+
+| Clase | Tema | Material |
+|---|---|---|
+| 1 | Introducción al curso | [Descargar PDF](clases/clase_01_introduccion.pdf) |
+| 2 | Sequencing Thenologies, plataformas and repositorios | [Descargar PDF](clases/clase_02_control_calidad.pdf) |
+| 3 | File Formats | [Descargar PDF](clases/clase_03_rnaseq.pdf) |
+
+
 ## Uso de los materiales
 
 Los materiales de este repositorio están destinados principalmente a fines docentes. Los contenidos serán actualizados durante el desarrollo de la asignatura.
