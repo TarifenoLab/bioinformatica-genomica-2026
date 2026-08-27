@@ -62,9 +62,9 @@ Universidad de Concepción
 
 | Clase | Tema | Material |
 |---|---|---|
-| 0 | Introducción al curso | [Descargar PDF](clases/clase_01_introduccion.pdf) |
-| 1 | Sequencing Thenologies, plataformas and repositorios | [Descargar PDF](clases/clase_02_control_calidad.pdf) |
-| 2 | File Formats | [Descargar PDF](clases/clase_03_rnaseq.pdf) |
+| 0 | Introducción al curso | [Clase 0: Bienvenida](clases/clase_00_bienvenida.pdf)|
+| 1 | Sequencing Technologies, plataformas and repositorios | [Clase 1: Sequencing technologies](clases/clase_01_sequencing_technologies.pdf) |
+| 2 | File Formats | [Clase 2: Formatos de archivos](clases/clase_02_file_formats.pdf) |
 
 
 ## Uso de los materiales
