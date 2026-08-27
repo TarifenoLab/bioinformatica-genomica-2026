@@ -65,11 +65,16 @@ Universidad de Concepción
 | 0 | Introducción al curso | [Clase 0: Bienvenida](clases/clase_00_bienvenida.pdf)|
 | 1 | Sequencing Technologies, plataformas and repositorios | [Clase 1: Sequencing technologies](clases/clase_01_sequencing_technologies.pdf) |
 | 2 | File Formats | [Clase 2: Formatos de archivos](clases/clase_02_file_formats.pdf) |
+| 3 | Quality Control | [Clase 3: Control de calidad](clases/clase_03_quality_control.pdf) |
 
 
 ## Tareas
 
 Las instrucciones de las actividades evaluadas se encuentran disponibles en la sección de [Tareas](tareas/README.md).
+
+##Planificación
+
+La planificación de actividades se encuentra disponible en el siguiente link: [Planificación](https://docs.google.com/spreadsheets/d/1M5L6jmSV0lu1hrxamPVtJIQDfgJezE33/edit?usp=sharing&ouid=114136602694108328835&rtpof=true&sd=true).
 
 
 ## Uso de los materiales
