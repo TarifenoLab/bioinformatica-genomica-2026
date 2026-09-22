@@ -66,6 +66,7 @@ Universidad de Concepción
 | 1 | Sequencing Technologies, plataformas and repositorios | [Clase 1: Sequencing technologies](clases/clase_01_sequencing_technologies.pdf) |
 | 2 | File Formats | [Clase 2: Formatos de archivos](clases/clase_02_file_formats.pdf) |
 | 3 | Quality Control | [Clase 3: Control de calidad](clases/clase_03_quality_control.pdf) |
+| 4 | Preprocessing | [Clase 4: Preprocesamiento](clases/clase_04_preprocesamiento.pdf) |
 
 
 ## Tareas
