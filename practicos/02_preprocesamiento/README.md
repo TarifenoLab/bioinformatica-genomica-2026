@@ -715,7 +715,7 @@ No es necesario transferir los FASTQ completos a tu computador personal para abr
 
 # Presentación y discusión de resultados
 
-Los resultados serán discutidos en clase utilizando el mismo PPT colaborativo del módulo de RNA-seq.
+Los resultados serán discutidos en clase utilizando el mismo [PPT colaborativo](https://docs.google.com/presentation/d/1sBM56-t_lCpwjfVbjaaLGFbKiV634dzirYtxzacjLqA/edit?usp=sharing) del módulo de RNA-seq.
 
 Cada presentación deberá incluir:
 
