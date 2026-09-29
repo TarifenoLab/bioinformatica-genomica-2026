@@ -19,7 +19,7 @@ Durante el curso se abordarán las principales etapas del análisis bioinformát
 
 1. [Práctico 1: Formato FASTQ y control de calidad de datos RNA-seq](practicos/01_formatos_y_control_calidad/)
 2. [Práctico 2: Preprocesamiento de lecturas](practicos/02_preprocesamiento)
-3. [Alineamiento contra un genoma de referencia](practicos/03_Alineamiento)
+3. [Práctico 3: Alineamiento contra un genoma de referencia](practicos/03_Alineamiento)
 4. Cuantificación de la expresión génica
 5. Normalización y exploración de los datos
 6. Análisis de expresión diferencial
@@ -67,7 +67,7 @@ Universidad de Concepción
 | 2 | File Formats | [Clase 2: Formatos de archivos](clases/clase_02_file_formats.pdf) |
 | 3 | Quality Control | [Clase 3: Control de calidad](clases/clase_03_quality_control.pdf) |
 | 4 | Preprocessing | [Clase 4: Preprocesamiento](clases/clase_04_preprocesamiento.pdf) |
-
+| 5 | Alineamiento | [Clase 5: Alineamiento](clases/clase_05_Alignment.pdf) |
 
 ## Tareas
 
