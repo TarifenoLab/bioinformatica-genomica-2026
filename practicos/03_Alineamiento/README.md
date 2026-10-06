@@ -422,6 +422,7 @@ Investiga qué función cumplen:
 --rna-strandness
 --dta
 ```
+Nota: para informarte sobre direccionalidad de la librerias revisa el siguiente link: [Xiaofei Carl Zang](https://x-zang.github.io/blog/check-strandness/)
 
 Completa:
 
