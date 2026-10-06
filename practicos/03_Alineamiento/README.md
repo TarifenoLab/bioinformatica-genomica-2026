@@ -1090,7 +1090,7 @@ Reemplaza `usuario` por tu nombre de usuario.
 
 # 24. Presentación y discusión de resultados
 
-Los resultados serán discutidos en clase utilizando el mismo PPT colaborativo del módulo de RNA-seq.
+Los resultados serán discutidos en clase utilizando el mismo [PPT colaborativo](https://docs.google.com/presentation/d/1beZzTInVUslHR7qNIuitWLGWbVy0F_RVatabIWvz_uA/edit?usp=sharing) del módulo de RNA-seq.
 
 Cada presentación deberá incluir:
 
