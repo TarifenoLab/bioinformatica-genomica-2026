@@ -68,6 +68,7 @@ Universidad de Concepción
 | 3 | Quality Control | [Clase 3: Control de calidad](clases/clase_03_quality_control.pdf) |
 | 4 | Preprocessing | [Clase 4: Preprocesamiento](clases/clase_04_preprocesamiento.pdf) |
 | 5 | Alineamiento | [Clase 5: Alineamiento](clases/clase_05_Alignment.pdf) |
+| 6 | Expression and Normalization | [Clase 6: Expresión y Normalización](clases/clase_06_Expresion_Normalization.pdf) |
 
 ## Tareas
 
