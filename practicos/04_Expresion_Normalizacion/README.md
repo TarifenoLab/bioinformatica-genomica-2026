@@ -237,7 +237,7 @@ Esta transformación se utiliza para explorar y visualizar los datos. El anális
 
 ## Presentación de resultados
 
-Integra los resultados en el informe del módulo de RNA-seq y en el PPT colaborativo. No se requiere un informe independiente para este práctico.
+Integra los resultados en el informe del módulo de RNA-seq y en el [PPT colaborativo](https://docs.google.com/presentation/d/1Ba5xQpXaBfJ1MtK5sx-V_f_IbfcvHZK5URosI0Hf820/edit?slide=id.p#slide=id.p). No se requiere un informe independiente para este práctico.
 
 Incluye:
 
