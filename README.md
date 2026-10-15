@@ -21,7 +21,7 @@ Durante el curso se abordarán las principales etapas del análisis bioinformát
 2. [Práctico 2: Preprocesamiento de lecturas](practicos/02_preprocesamiento)
 3. [Práctico 3: Alineamiento contra un genoma de referencia](practicos/03_Alineamiento)
 4. [Práctico 4: Cuantificación de la expresión génica, Normalización y Expresión Diferencial](practicos/04_Expresion_Normalizacion)
-5. Enriquecimiento y caracterización funcional
+5. [Pauta del Informe](practicos/05_Informe)
 
 Los prácticos de RNA-seq utilizarán progresivamente un mismo conjunto de datos, permitiendo desarrollar un flujo de análisis completo y reproducible.
 
