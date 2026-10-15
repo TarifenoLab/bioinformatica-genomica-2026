@@ -1,5 +1,4 @@
 # Pauta de informe – Módulo de RNA-seq
-**Curso de Bioinformática y Genómica 2026**
 
 ## Objetivo
 
@@ -136,4 +135,4 @@ Para cada criterio, el puntaje se asignará de acuerdo con los siguientes nivele
 - La inclusión de numerosas figuras, tablas o resultados sin interpretación no constituye evidencia suficiente de aprendizaje.
 - La reproducibilidad del análisis debe quedar respaldada mediante los scripts y comandos entregados en los anexos.
 
-**El criterio central será demostrar que el estudiante comprende qué hizo, por qué lo hizo, qué información obtuvo y qué conclusiones puede —o no puede— extraer de sus resultados.**
+**El criterio central será demostrar que el estudiante comprende qué hizo, por qué lo hizo, qué información obtuvo y qué conclusiones puede (o no puede) extraer de sus resultados.**
