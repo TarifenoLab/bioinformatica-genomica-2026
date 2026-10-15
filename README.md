@@ -68,6 +68,7 @@ Universidad de Concepción
 | 5 | Alineamiento | [Clase 5: Alineamiento](clases/clase_05_Alignment.pdf) |
 | 6 | Expression and Normalization | [Clase 6: Expresión y Normalización](clases/clase_06_Expresion_Normalization.pdf) |
 | 7 | Expresion Diferencial | [Clase 7: Expresión Diferencial](clases/clase_07_Normalizacion_DE.pdf) |
+| 8 | Downstream Analisis | [Clase 8: Downstream](clases/clase_08_Downstream.pdf) |
 
 ## Tareas
 
