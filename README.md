@@ -27,8 +27,8 @@ Los prácticos de RNA-seq utilizarán progresivamente un mismo conjunto de datos
 
 ### Ensamblaje y anotación
 
-8. Ensamblaje de transcriptomas de novo
-9. Evaluación de ensamblajes
+6. [Práctico 5: Ensamblaje de transcriptomas de novo y Evaluación de ensamblajes](practicos/06_Ensamble_De_Novo)
+7. [Pauta del Informe](practicos/07_Informe_DeNovo)
 
 ## Organización del repositorio
 
