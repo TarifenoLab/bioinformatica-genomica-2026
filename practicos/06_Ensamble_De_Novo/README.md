@@ -359,16 +359,14 @@ como entrada.
 ```
 conda activate busco
 
-busco -i Trinity.fasta \
-      -o busco_results \
-      -m transcriptome \
-      -l metazoa_odb10 \
-      -c 8
+busco \
+  -i Trinity.fasta \
+  -o BUSCO_metazoa \
+  -m transcriptome \
+  -l /opt/busco_datasets/lineages/metazoa_odb12.2 \
+  --offline \
+  -c 8
 ```
-
-
-
-
 
 
 Registra las siguientes categorías:
