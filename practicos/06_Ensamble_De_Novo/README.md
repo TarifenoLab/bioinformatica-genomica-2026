@@ -356,6 +356,21 @@ Trinity.fasta
 
 como entrada.
 
+```
+conda activate busco
+
+busco -i Trinity.fasta \
+      -o busco_results \
+      -m transcriptome \
+      -l metazoa_odb10 \
+      -c 8
+```
+
+
+
+
+
+
 Registra las siguientes categorías:
 
 - Complete BUSCOs
